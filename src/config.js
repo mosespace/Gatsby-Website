@@ -1,5 +1,5 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'kiskayemoses@gmail.com',
 
   socialMedia: [
     {
@@ -17,10 +17,6 @@ module.exports = {
     {
       name: 'Linkedin',
       url: 'https://www.linkedin.com/in/kisakye-moses-18b6b6220/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BZXH3XDhUQNGcj77DugckAw%3D%3D/',
-    },
-    {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
     },
   ],
 
