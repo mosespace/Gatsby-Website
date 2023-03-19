@@ -12,7 +12,7 @@ module.exports = {
     },
     {
       name: 'Twitter',
-      url: '',
+      url: 'https://twitter.com/bantu_creative',
     },
     {
       name: 'Linkedin',
