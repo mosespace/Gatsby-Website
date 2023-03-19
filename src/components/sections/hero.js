@@ -82,7 +82,7 @@ const Hero = () => {
       target="_blank"
       rel="noreferrer"
     >
-      Check out my course!
+      Conect With Me!!
     </a>
   );
 
