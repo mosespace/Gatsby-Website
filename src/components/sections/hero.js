@@ -66,22 +66,19 @@ const Hero = () => {
     <>
       <p>
         I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m focused on building accessible, human-centered products
-        at{' '}
-        <a href="https://upstatement.com/" target="_blank" rel="noreferrer">
-          Upstatement
+        digital experiences. aA an Ugandan based self taught Front End developer with a professional
+        certificate in Infromation & Technology. I am passionate about Software development and he
+        power of Open Source. I also wish to make a career out of it someday.Currently, I’m focused
+        on learning php back-end, at{' '}
+        <a href="https://www.desishub.com/desishub-coding-school" target="_blank" rel="noreferrer">
+          Desishub Coding school
         </a>
         .
       </p>
     </>
   );
   const five = (
-    <a
-      className="email-link"
-      href="https://www.newline.co/courses/build-a-spotify-connected-app"
-      target="_blank"
-      rel="noreferrer"
-    >
+    <a className="email-link" href="mailto:kiskayemoses@gmail.com" target="_blank" rel="noreferrer">
       Conect With Me!!
     </a>
   );
