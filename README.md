@@ -14,14 +14,16 @@
 <p align="center">
   <a href="https://app.netlify.com/sites/mosespace/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
-    
+  </a>
+</p>
+<div align="center">
+
   ![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=Gatsby&logoColor=white)
   ![Netlify](https://img.shields.io/badge/Netlify-18f1b6.svg?style=for-the-badge&logo=Netlify&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
   ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-  </a>
-</p>
+</div>
 
 ![demo](https://raw.githubusercontent.com/mosespace/GATSBY-WEBSITE/main/src/images/demo.png)
 
