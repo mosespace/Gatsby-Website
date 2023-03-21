@@ -1,18 +1,18 @@
 <div align="center">
-  <img alt="Logo" src="https://raw.githubusercontent.com/bchiang7/v4/main/src/images/logo.png" width="100" />
+  <img alt="Logo" src="https://raw.githubusercontent.com/mosespace/GATSBY-WEBSITE/main/src/images/logo.png" width="100" />
 </div>
 <h1 align="center">
   unclemoses.vercel.app - v2
 </h1>
 <p align="center">
-  This is my personal portfolio website hosted <a href="https://brittanychiang.com" target="_blank">here</a> built with built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>.
+  This is my personal portfolio website hosted <a href="https://netlify.uncle-moses.app/" target="_blank">here</a> built with built with <a href="https://www.gatsbyjs.org/" target="_blank">Gatsby</a> and hosted with <a href="https://www.vercel.com/" target="_blank">Vercel</a>.
 </p>
 <p align="center">
   Previous iterations:
-  <a href="https://github.com/bchiang7/v1" target="_blank">v1</a>.
+  <a href="https://github.com/mosespace.github.io/" target="_blank">v1</a>.
 </p>
 <p align="center">
-  <a href="https://app.netlify.com/sites/brittanychiang/deploys" target="_blank">
+  <a href="https://app.netlify.com/sites/mosespace/deploys" target="_blank">
     <img src="https://api.netlify.com/api/v1/badges/1963b488-7b78-48c9-9e2d-6fb5e47ab3af/deploy-status" alt="Netlify Status" />
 
 ![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=Gatsby&logoColor=white)
@@ -23,7 +23,7 @@
   </a>
 </p>
 
-![demo](https://raw.githubusercontent.com/bchiang7/v4/main/src/images/demo.png)
+![demo](https://raw.githubusercontent.com/mosespace/GATSBY-WEBSITE/main/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
