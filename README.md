@@ -27,7 +27,7 @@
 
 ## 🚨 Forking this repo (please read!)
 
-Many people have contacted me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
+Many people have contacteds me asking me if they can use this code for their own website, and the answer to that question is usually **yes, with attribution**.
 
 > ### TL;DR
 >
