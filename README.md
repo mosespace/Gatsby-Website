@@ -18,10 +18,10 @@
 </p>
 <div align="center">
 
-  ![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=Gatsby&logoColor=white)
-  ![Netlify](https://img.shields.io/badge/Netlify-18f1b6.svg?style=for-the-badge&logo=Netlify&logoColor=white)
-  ![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
-  ![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Gatsby](https://img.shields.io/badge/Gatsby-663399.svg?style=for-the-badge&logo=Gatsby&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-18f1b6.svg?style=for-the-badge&logo=Netlify&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 </div>
 
@@ -63,7 +63,7 @@ Many people have contacteds me asking me if they can use this code for their own
 
 ## 🚀 Building and Running for Production
 
-1. Generate a full static production build
+1. Generate a full static production9(s) build
 
    ```sh
    npm run build
