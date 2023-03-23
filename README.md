@@ -25,7 +25,7 @@
 
 </div>
 
-![demo](https://raw.githubusercontent.com/mosespace/GATSBY-WEBSITE/main/src/images/demo.png)
+![demo](/src/images/demo.png)
 
 ## 🚨 Forking this repo (please read!)
 
